@@ -4,6 +4,7 @@
 #include <arpa/inet.h>
 #include <string.h>
 #include <stdio.h>
+#include <unistd.h>
 
 
 int get_local_ip(char *ip)
