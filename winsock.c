@@ -62,6 +62,17 @@ int main()
         memset(ip, 0, sizeof(ip));
 
         get_local_ip(ip);
+		
+		while(1)
+		{
+			
+		;	
+			
+		}
+
+
+
+
 
         return 0;
 
